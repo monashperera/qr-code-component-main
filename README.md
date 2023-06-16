@@ -16,8 +16,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
+
 Desktop Preview
 ![Solution preview for the QR code component Desktop](./temp/QR-solution-sh.png)
+
 Mobile Preview
 ![Solution preview for the QR code component coding challenge](./temp/QR-solution-sh-mobile.jpg)
 ### Links
